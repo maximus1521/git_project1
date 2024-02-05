@@ -1,6 +1,2 @@
 # my_project1
-# my_project1
-# my_project1
-# my_project1
-# my_project1
-# git_project1
+# is_the_best
